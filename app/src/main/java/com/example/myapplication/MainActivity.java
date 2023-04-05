@@ -17,12 +17,12 @@ public class MainActivity extends AppCompatActivity {
 
 
 
-        @Override
-                public void run(){
-            Intent i = new Intent( this, MainActivity2.class);
-            startActivity(i);
-            finish();
-
-        }
+//        @Override
+//                public void run(){
+//            Intent i = new Intent( this, MainActivity2.class);
+//            startActivity(i);
+//            finish();
+//
+//        }
     }
 }
