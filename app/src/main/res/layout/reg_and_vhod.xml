@@ -60,6 +60,7 @@
         android:id="@+id/btN1"
         android:layout_width="301dp"
         android:layout_height="51dp"
+        android:background="#1A6FEE"
         android:backgroundTint="#1A6FEE"
         android:text="Далее"
         app:layout_constraintBottom_toBottomOf="parent"
